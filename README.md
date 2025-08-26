@@ -1,2 +1,3 @@
-# try-qodo-merge-with-openai
-A testing repository to evaluate Qodo Merge (formerly PR-Agent), an AI-powered code review tool for GitHub. This repo contains sample code and pull requests designed to test Qodo Merge's capabilities including automated code analysis, suggestion generation, and review quality assessment.
+# xxx
+
+[![🇯🇵 日本語](https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-white)](./README.ja.md) [![🇺🇸 English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-white)](./README.md)
