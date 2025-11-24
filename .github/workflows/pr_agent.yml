@@ -35,7 +35,7 @@ jobs:
     name: Run pr agent on every pull request, respond to user comments
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
       # see: https://qodo-merge-docs.qodo.ai/installation/github/#configuration-examples
       - name: PR Agent action step with OpenAI
         id: pragent
